@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hungfungfy
-- 👀 I’m interested in wacwach
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in watch news.
+- 🌱 I’m currently learning the truth of the world.
+- 💞️ I’m looking to collaborate on read the news
 - 📫 How to reach me ...
 
 <!---
